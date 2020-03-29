@@ -34,6 +34,7 @@ UI Automator on Android can be a very interesting source of fun.
 
 I am currently trying to build an enhancement to make this command line driven.
 Once this is done, I will be hosting it somewhere where a web page can accept your text file directly.
+Additional improvements can be made in the infected import to turn cities into geo-coded locations.
 
 ## Built With
 
