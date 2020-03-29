@@ -54,5 +54,4 @@ Android Extractions: Add a version of adb in PATH
 ![Export Log Page 2](./Auxiliary/Exposure Report Page.png)
 
 ## Videos
-
 [![Demo Reel](https://img.youtube.com/vi/glnkhx6CnHU/0.jpg)](https://www.youtube.com/watch?v=glnkhx6CnHU)
