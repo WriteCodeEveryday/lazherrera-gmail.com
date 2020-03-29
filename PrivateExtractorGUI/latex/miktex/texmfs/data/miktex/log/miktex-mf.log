@@ -1,0 +1,7 @@
+2020-03-28 23:55:33,063-0400 INFO  miktex-mf - starting with command line: miktex-mf.exe --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; \mag:=magstep(0.0); nonstopmode; "input tcrm0900"
+2020-03-28 23:55:33,074-0400 INFO  miktex-mf - going to create file: mf.base
+2020-03-28 23:55:33,645-0400 INFO  miktex-mf - starting with command line: miktex-mf.exe --miktex-disable-maintenance --miktex-disable-diagnose --initialize --interaction=nonstopmode --halt-on-error -tcx=cp227.tcx mf.ini
+2020-03-28 23:55:33,720-0400 INFO  miktex-mf - finishing with exit code 0
+2020-03-28 23:55:34,136-0400 INFO  miktex-mf - finishing with exit code 0
+2020-03-28 23:55:34,854-0400 INFO  miktex-mf - starting with command line: miktex-mf.exe --miktex-disable-maintenance --miktex-disable-diagnose --undump=mf \mode:=ljfour; \mag:=magstep(0.0); nonstopmode; "input tcrm1000"
+2020-03-28 23:55:35,026-0400 INFO  miktex-mf - finishing with exit code 0

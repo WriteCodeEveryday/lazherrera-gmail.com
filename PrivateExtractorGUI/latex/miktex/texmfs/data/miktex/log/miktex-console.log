@@ -1,0 +1,7 @@
+2020-03-26 01:15:54,303-0400 INFO  main - starting: MiKTeX Console 2.9.7364 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:16:02,150-0400 INFO  main - finishing with exit code 0
+2020-03-26 01:16:26,079-0400 INFO  main - starting: MiKTeX Console 2.9.7364 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:17:47,822-0400 INFO  main - finishing with exit code 0
+2020-03-28 18:45:09,702-0400 INFO  main - starting: MiKTeX Console 2.9.7364 (MiKTeX 2.9.7350 64-bit)
+2020-03-28 18:45:16,903-0400 WARN  main - session.use_count() == 3
+2020-03-28 18:45:16,903-0400 INFO  main - finishing with exit code 0

@@ -1,0 +1,70 @@
+2020-03-26 01:13:31,061-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:13:31,062-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:13:31,062-0400 INFO  initexmf - starting with command line: initexmf --rmfndb "--log-file=C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/install\miktex/config\uninst.log" --disable-installer --verbose
+2020-03-26 01:13:31,063-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:13:31,475-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:13:31,475-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:13:31,475-0400 INFO  initexmf - starting with command line: initexmf --update-fndb "--log-file=C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/install\miktex/config\uninst.log" --disable-installer --verbose
+2020-03-26 01:13:31,476-0400 INFO  initexmf - Creating fndb for common root directory ("C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/config")...
+2020-03-26 01:13:31,482-0400 INFO  initexmf - Creating fndb for common root directory ("C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/data")...
+2020-03-26 01:13:31,489-0400 INFO  initexmf - Creating fndb for common root directory ("C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs\install")...
+2020-03-26 01:13:33,822-0400 INFO  initexmf - Creating fndb for MPM...
+2020-03-26 01:13:35,414-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:13:35,538-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:13:35,538-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:13:35,538-0400 INFO  initexmf - starting with command line: initexmf --force --mklinks "--log-file=C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/install\miktex/config\uninst.log" --disable-installer --verbose
+2020-03-26 01:13:35,540-0400 INFO  initexmf - Creating links in target directory C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs\install\miktex\bin\x64...
+2020-03-26 01:13:35,557-0400 WARN  initexmf - The lualatex executable could not be found.
+2020-03-26 01:13:41,104-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:13:41,230-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:13:41,231-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:13:41,231-0400 INFO  initexmf - starting with command line: initexmf --mkmaps --mklangs "--log-file=C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/install\miktex/config\uninst.log" --disable-installer --verbose
+2020-03-26 01:13:41,231-0400 INFO  initexmf - Creating language.dat, language.dat.lua and language.def...
+2020-03-26 01:13:41,290-0400 INFO  initexmf - running: mkfntmap --verbose --disable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-26 01:13:53,974-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:13:54,100-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:13:54,100-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:13:54,100-0400 INFO  initexmf - starting with command line: initexmf --default-paper-size=Letter "--log-file=C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/install\miktex/config\uninst.log" --disable-installer --verbose
+2020-03-26 01:13:54,167-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:13:54,293-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:13:54,293-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:13:54,293-0400 INFO  initexmf - starting with command line: initexmf --set-config-value=[MPM]AutoInstall=2 "--log-file=C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/install\miktex/config\uninst.log" --disable-installer --verbose
+2020-03-26 01:13:54,294-0400 INFO  initexmf - Setting config value: [MPM]AutoInstall=2
+2020-03-26 01:13:54,326-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:13:54,451-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:13:54,466-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:13:54,466-0400 INFO  initexmf - starting with command line: initexmf --update-fndb "--log-file=C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/install\miktex/config\uninst.log" --disable-installer --verbose
+2020-03-26 01:13:54,498-0400 INFO  initexmf - Creating fndb for common root directory ("C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/config")...
+2020-03-26 01:13:54,507-0400 INFO  initexmf - Creating fndb for common root directory ("C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/data")...
+2020-03-26 01:13:54,515-0400 INFO  initexmf - Creating fndb for common root directory ("C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs\install")...
+2020-03-26 01:13:56,839-0400 INFO  initexmf - Creating fndb for MPM...
+2020-03-26 01:13:58,443-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:13:58,570-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:13:58,570-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:13:58,570-0400 INFO  initexmf - starting with command line: initexmf --report "--log-file=C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\miktex\texmfs/install\miktex/config\uninst.log" --disable-installer --verbose
+2020-03-26 01:13:58,614-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:15:56,461-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:15:56,462-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:15:56,462-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2020-03-26 01:15:56,463-0400 INFO  initexmf - running: mkfntmap --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-26 01:15:58,006-0400 INFO  initexmf - finishing with exit code 0
+2020-03-26 01:16:28,281-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-26 01:16:28,281-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-26 01:16:28,281-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2020-03-26 01:16:28,283-0400 INFO  initexmf - running: mkfntmap --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-26 01:16:30,210-0400 INFO  initexmf - finishing with exit code 0
+2020-03-28 18:45:13,539-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-28 18:45:13,573-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-28 18:45:13,587-0400 INFO  initexmf - starting with command line: initexmf --mkmaps
+2020-03-28 18:45:13,589-0400 INFO  initexmf - running: mkfntmap --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-28 18:45:23,323-0400 INFO  initexmf - finishing with exit code 0
+2020-03-28 23:55:27,526-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-28 23:55:27,527-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-28 23:55:27,527-0400 INFO  initexmf - starting with command line: initexmf --dump-by-name=pdflatex --engine=pdftex
+2020-03-28 23:55:27,583-0400 INFO  initexmf - running: miktex-makefmt.exe --engine=pdftex --dest-name=pdflatex --no-dump pdflatex.ini --engine-option=-tcx=cp227.tcx --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-28 23:55:32,002-0400 INFO  initexmf - finishing with exit code 0
+2020-03-28 23:55:33,321-0400 INFO  initexmf - starting: MiKTeX Configuration Utility 2.9.7373 (MiKTeX 2.9.7350 64-bit)
+2020-03-28 23:55:33,321-0400 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-03-28 23:55:33,321-0400 INFO  initexmf - starting with command line: initexmf --dump-by-name=mf
+2020-03-28 23:55:33,325-0400 INFO  initexmf - running: miktex-makebase.exe --dest-name=mf --no-dump mf.ini --engine-option=-tcx=cp227.tcx --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-28 23:55:33,773-0400 INFO  initexmf - finishing with exit code 0

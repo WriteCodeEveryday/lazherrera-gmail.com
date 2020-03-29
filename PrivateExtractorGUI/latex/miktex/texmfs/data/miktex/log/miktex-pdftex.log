@@ -1,0 +1,4 @@
+2020-03-28 23:55:28,015-0400 INFO  miktex-pdftex - starting with command line: miktex-pdftex.exe --miktex-disable-maintenance --miktex-disable-diagnose --initialize --interaction=nonstopmode --halt-on-error --alias=pdflatex --job-name=pdflatex -tcx=cp227.tcx --enable-etex pdflatex.ini
+2020-03-28 23:55:28,029-0400 INFO  miktex-pdftex - allowing known shell commands
+2020-03-28 23:55:28,029-0400 INFO  miktex-pdftex - enabling input (output) from (to) processes
+2020-03-28 23:55:31,817-0400 INFO  miktex-pdftex - finishing with exit code 0

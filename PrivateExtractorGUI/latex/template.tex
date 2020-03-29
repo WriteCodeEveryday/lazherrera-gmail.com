@@ -1,0 +1,99 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{longtable}
+\graphicspath{ {./} }
+
+
+\title{Private Extractor Export}
+\begin{figure}[t]
+\includegraphics[width=0.1\textwidth]{ic_launcher.png}
+\centering
+\end{figure}
+\author{Infected Contact Report} 
+\date{$date}
+
+\begin{document}
+
+\maketitle
+
+
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+       \textbf{What does risk mean?}
+       In this context, risk is defined as follows. \\
+       You are at risk if you visited a location where an infected person was.
+       \centering
+       
+       \begin{itemize}
+        \item \textbf{Green}: You were not at any possible known location within 24 hours.
+        \item \textbf{Yellow}: You were at a possible location within 24 hours.
+        \item \textbf{Red}: You were at a possible location within 3 hours.
+        \end{itemize}
+        \centering
+		
+		\textbf{Do not use this application to make medical decisions.}\\
+		\textbf{This application is not a replacement for a medical professional.}\\
+    }%
+} \\ [5ex]
+
+
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+        \textbf{How do I decrease my risk?}
+        Follow the WHO / CDC guidelines.
+        \centering
+        
+        \begin{itemize}
+        \item \textbf{Wash your hands frequently (for at least 20 seconds).}
+        \item \textbf{Maintain social distancing (one meter or three feet).}
+        \item \textbf{Cover your mouth and nose when you cough or sneeze.}
+        \item \textbf{Avoid touching eyes, nose and mouth.}
+        \end{itemize}
+        \centering
+		
+		We're not doctors here, we're nerds, listen to them!
+    }%
+} \\ [5ex]
+
+Private Extractor is built on the hard work of the open source community and using the following tools: \textbf{Android Debug Bridge, Android Backup Extractor, JLR, Gson, GeoTools, tar, MIT PrivateKit, and Miktex Portable Edition}. Data sourced from \textbf{nCoV-2019 Data Working Group}. Created by Lazaro Herrera.
+
+\pagebreak
+
+\small
+\begin{longtable}[c]{| c | c | c | c |}
+    \hline
+    \multicolumn{4}{| c |}{GPS Coordinates Analyzed}\\ [0.5ex]
+    \hline
+    Latitude & Longitude & Date / Time & Risk \\ [0.5ex]
+    \endfirsthead
+    
+	\hline
+    \endhead
+    
+    \hline
+     \endfoot
+    
+     \hline
+     \endlastfoot
+    
+     \hline\hline
+     #foreach( $point in $points )
+        {$point[0]} & {$point[1]} & {$point[2]} & {$point[3]} \\ 
+    	\hline
+     #end 
+\end{longtable}
+
+\pagebreak
+
+\begin{itemize}
+   \item  Export Log
+   \begin{itemize}
+	#foreach( $entry in $log )
+		\item	{$entry}
+	#end 
+	\end{itemize}
+\end{itemize}
+
+\end{document}

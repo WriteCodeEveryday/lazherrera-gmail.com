@@ -1,0 +1,8 @@
+2020-03-26 01:13:43,491-0400 INFO  miktex-fc-cache - starting with command line: miktex-fc-cache --verbose --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-26 01:13:53,929-0400 INFO  miktex-fc-cache - finishing with exit code 0
+2020-03-26 01:15:57,808-0400 INFO  miktex-fc-cache - starting with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-26 01:15:57,959-0400 INFO  miktex-fc-cache - finishing with exit code 0
+2020-03-26 01:16:30,020-0400 INFO  miktex-fc-cache - starting with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-26 01:16:30,166-0400 INFO  miktex-fc-cache - finishing with exit code 0
+2020-03-28 18:45:15,587-0400 INFO  miktex-fc-cache - starting with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2020-03-28 18:45:23,265-0400 INFO  miktex-fc-cache - finishing with exit code 0

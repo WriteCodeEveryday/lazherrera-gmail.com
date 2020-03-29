@@ -1,0 +1,165 @@
+2020-03-26 01:51:22,568-0400 INFO  pdflatex - starting with command line: pdflatex
+2020-03-26 01:51:22,658-0400 INFO  pdflatex - allowing known shell commands
+2020-03-26 01:51:22,659-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-26 01:51:24,400-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-26 01:51:24,433-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-28 18:43:23,003-0400 INFO  pdflatex - starting with command line: pdflatex
+2020-03-28 18:43:23,030-0400 INFO  pdflatex - allowing known shell commands
+2020-03-28 18:43:23,030-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-28 23:55:02,883-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe
+2020-03-28 23:55:02,888-0400 INFO  pdflatex - allowing known shell commands
+2020-03-28 23:55:02,888-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-28 23:55:04,208-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-28 23:55:04,288-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-28 23:55:11,261-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe --help
+2020-03-28 23:55:11,265-0400 INFO  pdflatex - allowing known shell commands
+2020-03-28 23:55:11,265-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-28 23:55:11,350-0400 INFO  pdflatex - finishing with exit code 0
+2020-03-28 23:55:11,351-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-28 23:55:27,341-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex
+2020-03-28 23:55:27,346-0400 INFO  pdflatex - allowing known shell commands
+2020-03-28 23:55:27,347-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-28 23:55:27,361-0400 INFO  pdflatex - going to create file: pdflatex.fmt
+2020-03-28 23:55:35,379-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-28 23:55:35,379-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:06:43,813-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex
+2020-03-29 00:06:43,816-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:06:43,817-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:06:58,627-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:06:58,627-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:13:31,081-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex
+2020-03-29 00:13:31,084-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:13:31,084-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:13:35,020-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:13:35,020-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:14:33,334-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe --help
+2020-03-29 00:14:33,338-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:14:33,339-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:14:33,373-0400 INFO  pdflatex - finishing with exit code 0
+2020-03-29 00:14:33,374-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:15:01,524-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex -aux-directory=latex\
+2020-03-29 00:15:01,527-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:15:01,527-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:15:01,528-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:15:03,119-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:15:03,119-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:16:30,764-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex -aux-directory=latex\
+2020-03-29 00:16:30,768-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:16:30,768-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:16:30,768-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:16:32,195-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:16:32,196-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:16:49,677-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex -aux-directory=latex\
+2020-03-29 00:16:49,681-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:16:49,681-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:16:49,681-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:16:51,319-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:16:51,319-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:16:52,300-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex -aux-directory=latex\
+2020-03-29 00:16:52,303-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:16:52,303-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:16:52,304-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:16:53,305-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:16:53,305-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:17:12,645-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex -aux-directory=latex\
+2020-03-29 00:17:12,648-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:17:12,649-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:17:12,649-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:17:18,019-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:17:18,020-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:17:44,407-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex -aux-directory=latex\
+2020-03-29 00:17:44,414-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:17:44,414-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:17:44,415-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:17:48,563-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:17:48,564-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:17:51,188-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex -aux-directory=latex\
+2020-03-29 00:17:51,192-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:17:51,192-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:17:51,192-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:17:52,352-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:17:52,353-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:24:25,783-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex\output_29-Mar-2020-002420.tex" -aux-directory=latex
+2020-03-29 00:24:25,787-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:24:25,787-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:24:25,787-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:24:42,493-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:24:42,493-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:24:49,429-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe latex\temp28-Mar-2020-231501.tex -aux-directory=latex\
+2020-03-29 00:24:49,432-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:24:49,432-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:24:49,433-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:24:50,626-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:24:50,626-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:26:36,564-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex\output_29-Mar-2020-002630.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 00:26:36,568-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:26:36,568-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:26:36,568-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:26:36,788-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:26:36,788-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:26:36,943-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex\output_29-Mar-2020-002630.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 00:26:36,946-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:26:36,947-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:26:36,947-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:26:37,161-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:26:37,162-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:27:51,492-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex\output_29-Mar-2020-002745.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 00:27:51,495-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:27:51,495-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:27:51,496-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:27:51,713-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:27:51,713-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:27:51,865-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex\output_29-Mar-2020-002745.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 00:27:51,868-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:27:51,868-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:27:51,868-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:27:52,081-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:27:52,082-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:31:49,898-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex\output_29-Mar-2020-003144.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 00:31:49,901-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:31:49,901-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:31:49,902-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:31:50,113-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:31:50,114-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 00:31:50,283-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex\output_29-Mar-2020-003144.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 00:31:50,286-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 00:31:50,286-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 00:31:50,287-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Desktop\Forensics\Tuts\Android APK\Solution\PrivateExtractorGUI\latex
+2020-03-29 00:31:50,499-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 00:31:50,500-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 01:04:29,226-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex\output_29-Mar-2020-010423.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 01:04:29,230-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 01:04:29,230-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 01:04:29,230-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex
+2020-03-29 01:04:29,470-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 01:04:29,470-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 01:04:29,620-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex\output_29-Mar-2020-010423.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 01:04:29,623-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 01:04:29,623-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 01:04:29,623-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex
+2020-03-29 01:04:29,841-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 01:04:29,841-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 01:07:30,446-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex\output_29-Mar-2020-010724.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 01:07:30,451-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 01:07:30,451-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 01:07:30,452-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex
+2020-03-29 01:07:30,697-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 01:07:30,697-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 01:07:30,854-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex\output_29-Mar-2020-010724.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 01:07:30,859-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 01:07:30,859-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 01:07:30,859-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex
+2020-03-29 01:07:31,088-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 01:07:31,089-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 01:11:02,956-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex\output_29-Mar-2020-011057.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 01:11:03,014-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 01:11:03,015-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 01:11:03,015-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex
+2020-03-29 01:11:04,154-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 01:11:04,158-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.
+2020-03-29 01:11:04,318-0400 INFO  pdflatex - starting with command line: latex\miktex\texmfs\install\miktex\bin\x64\pdflatex.exe "C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex\output_29-Mar-2020-011057.tex" -aux-directory=latex -interaction=nonstopmode
+2020-03-29 01:11:04,321-0400 INFO  pdflatex - allowing known shell commands
+2020-03-29 01:11:04,322-0400 INFO  pdflatex - enabling input (output) from (to) processes
+2020-03-29 01:11:04,322-0400 INFO  pdflatex - setting aux directory: C:\Users\Enmanuel\Documents\COVID-19\Private Extractor\PrivateExtractorGUI\latex
+2020-03-29 01:11:04,552-0400 INFO  pdflatex - finishing with exit code 1
+2020-03-29 01:11:04,553-0400 FATAL pdflatex - major issue: So far, you have not checked for MiKTeX updates.

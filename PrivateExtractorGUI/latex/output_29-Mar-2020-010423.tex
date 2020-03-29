@@ -1,0 +1,175 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{longtable}
+\graphicspath{ {./} }
+
+
+\title{Private Extractor Export}
+\begin{figure}[t]
+\includegraphics[width=0.1\textwidth]{ic_launcher.png}
+\centering
+\end{figure}
+\author{Infected Contact Report} 
+\date{29 Mar 2020}
+
+\begin{document}
+
+\maketitle
+
+
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+       \textbf{What does risk mean?}
+       In this context, risk is defined as follows. \\
+       You are at risk if you visited a location where an infected person was.
+       \centering
+       
+       \begin{itemize}
+        \item \textbf{Green}: You were not at any possible known location within 24 hours.
+        \item \textbf{Yellow}: You were at a possible location within 24 hours.
+        \item \textbf{Red}: You were at a possible location within 3 hours.
+        \end{itemize}
+        \centering
+		
+		\textbf{Do not use this application to make medical decisions.}\\
+		\textbf{This application is not a replacement for a medical professional.}\\
+    }%
+} \\ [5ex]
+
+
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+        \textbf{How do I decrease my risk?}
+        Follow the WHO / CDC guidelines.
+        \centering
+        
+        \begin{itemize}
+        \item \textbf{Wash your hands frequently (for at least 20 seconds).}
+        \item \textbf{Maintain social distancing (one meter or three feet).}
+        \item \textbf{Cover your mouth and nose when you cough or sneeze.}
+        \item \textbf{Avoid touching eyes, nose and mouth.}
+        \end{itemize}
+        \centering
+		
+		We're not doctors here, we're nerds, listen to them!
+    }%
+} \\ [5ex]
+
+Private Extractor is built on the hard work of the open source community and using the following tools: \textbf{Android Debug Bridge, Android Backup Extractor, JLR, Gson, GeoTools, tar, MIT PrivateKit, and Miktex Portable Edition}. Data sourced from \textbf{nCoV-2019 Data Working Group}. Created by Lazaro Herrera.
+
+\pagebreak
+
+\small
+\begin{longtable}[c]{| c | c | c | c |}
+    \hline
+    \multicolumn{4}{| c |}{GPS Coordinates Analyzed}\\ [0.5ex]
+    \hline
+    Latitude & Longitude & Date / Time & Risk \\ [0.5ex]
+    \endfirsthead
+    
+	\hline
+    \endhead
+    
+    \hline
+     \endfoot
+    
+     \hline
+     \endlastfoot
+    
+     \hline\hline
+             {Private} & {Private} & {23 Mar 2020 22:55:47:060 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 09:42:40:099 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 09:43:04:050 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 09:48:04:043 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 09:53:59:086 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:01:20:990 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:01:21:966 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:06:46:060 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:08:15:636 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:17:44:478 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:32:513 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:34:355 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:36:386 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:38:445 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:29:39:579 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:30:04:503 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:31:08:357 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:31:10:364 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:36:10:489 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:41:11:494 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:48:47:472 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:48:49:359 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {26 Mar 2020 16:52:02:768 -0400} & {GREEN} \\ 
+    	\hline
+     \end{longtable}
+
+\pagebreak
+
+\begin{itemize}
+   \item  Export Log
+   \begin{itemize}
+			\item	{Starting Android Extraction}
+			\item	{Preflight}
+			\item	{Found Working ADB}
+			\item	{No Devices Found}
+			\item	{Found a version of PrivateKit}
+			\item	{Checking for file: private-extractor-debug.apk}
+			\item	{Found a version of PrivateExtractor}
+			\item	{Checking for file: abe-all.jar}
+			\item	{Found a version of Android Backup Extractor (ABE)}
+			\item	{Found a version of tar}
+			\item	{Executing Android Extraction}
+			\item	{Installed PrivateExtractor}
+			\item	{Started PrivateExtractor}
+			\item	{Attempting to Extract PrivateKit}
+			\item	{Extracted PrivateKit}
+			\item	{Please Click 'Backup My Data' to Retrieve Data}
+			\item	{Launched Backup}
+			\item	{Waiting For backup.ab To Be Created}
+			\item	{Checking for file: backup.ab}
+			\item	{backup.ab Created}
+			\item	{Uninstalled PrivateExtractor}
+			\item	{Extracted backup.ab (Beta)}
+			\item	{Extracted backup.tar (Beta)}
+			\item	{Checking for file: apps/com.testing.PrivateExtractor/f/hot.txt}
+			\item	{Found a Data File}
+			\item	{Successfully imported 809 records. (786 duplicates)}
+			\item	{Checking for infection data}
+			\item	{Checking for file: infected.csv}
+			\item	{No infected.csv file found}
+			\item	{Attempting to download (Alpha)}
+			\item	{Downloaded 22467733 bytes to infected.csv}
+			\item	{Attempting to import infected.csv file}
+			\item	{Excluded 3330 for latitude issues (missing or misformatted)}
+			\item	{Excluded 3373 for longitude issues (missing or misformatted)}
+			\item	{Excluded 1212 for date issues (missing or misformatted)}
+			\item	{Imported 113264 infected records}
+			\item	{Generating contact report PDF file}
+		\end{itemize}
+\end{itemize}
+
+\end{document}

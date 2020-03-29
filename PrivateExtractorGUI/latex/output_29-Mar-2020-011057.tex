@@ -1,0 +1,209 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{longtable}
+\graphicspath{ {./} }
+
+
+\title{Private Extractor Export}
+\begin{figure}[t]
+\includegraphics[width=0.1\textwidth]{ic_launcher.png}
+\centering
+\end{figure}
+\author{Infected Contact Report} 
+\date{29 Mar 2020}
+
+\begin{document}
+
+\maketitle
+
+
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+       \textbf{What does risk mean?}
+       In this context, risk is defined as follows. \\
+       You are at risk if you visited a location where an infected person was.
+       \centering
+       
+       \begin{itemize}
+        \item \textbf{Green}: You were not at any possible known location within 24 hours.
+        \item \textbf{Yellow}: You were at a possible location within 24 hours.
+        \item \textbf{Red}: You were at a possible location within 3 hours.
+        \end{itemize}
+        \centering
+		
+		\textbf{Do not use this application to make medical decisions.}\\
+		\textbf{This application is not a replacement for a medical professional.}\\
+    }%
+} \\ [5ex]
+
+
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+        \textbf{How do I decrease my risk?}
+        Follow the WHO / CDC guidelines.
+        \centering
+        
+        \begin{itemize}
+        \item \textbf{Wash your hands frequently (for at least 20 seconds).}
+        \item \textbf{Maintain social distancing (one meter or three feet).}
+        \item \textbf{Cover your mouth and nose when you cough or sneeze.}
+        \item \textbf{Avoid touching eyes, nose and mouth.}
+        \end{itemize}
+        \centering
+		
+		We're not doctors here, we're nerds, listen to them!
+    }%
+} \\ [5ex]
+
+Private Extractor is built on the hard work of the open source community and using the following tools: \textbf{Android Debug Bridge, Android Backup Extractor, JLR, Gson, GeoTools, tar, MIT PrivateKit, and Miktex Portable Edition}. Data sourced from \textbf{nCoV-2019 Data Working Group}. Created by Lazaro Herrera.
+
+\pagebreak
+
+\small
+\begin{longtable}[c]{| c | c | c | c |}
+    \hline
+    \multicolumn{4}{| c |}{GPS Coordinates Analyzed}\\ [0.5ex]
+    \hline
+    Latitude & Longitude & Date / Time & Risk \\ [0.5ex]
+    \endfirsthead
+    
+	\hline
+    \endhead
+    
+    \hline
+     \endfoot
+    
+     \hline
+     \endlastfoot
+    
+     \hline\hline
+             {Private} & {Private} & {23 Mar 2020 22:56:27:060 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 09:47:40:099 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 09:48:08:050 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 09:48:08:086 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 09:54:29:086 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:06:46:060 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:08:00:990 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:08:01:966 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:08:15:666 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:28:878 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:32:516 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:36:686 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:38:655 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:24:38:885 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:29:39:579 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:30:08:506 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:31:08:657 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:31:10:668 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:36:10:889 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:41:11:898 -0400} & {GREEN} \\ 
+    	\hline
+             {Private} & {Private} & {24 Mar 2020 10:53:47:872 -0400} & {GREEN} \\ 
+    	\hline
+             {51.454495} & {-2.588075} & {25 Mar 2020 00:00:00:000 -0400} & {RED} \\ 
+    	\hline
+             {26.76018952} & {-81.69101052} & {25 Mar 2020 22:30:00:000 -0400} & {GREEN (RED)} \\ 
+    	\hline
+             {26.76018952} & {-81.69101052} & {26 Mar 2020 01:16:40:000 -0400} & {GREEN (RED)} \\ 
+    	\hline
+     \end{longtable}
+
+\pagebreak
+
+\begin{itemize}
+   \item  Export Log
+   \begin{itemize}
+			\item	{Starting File Extraction}
+			\item	{Drag Exported File to THIS TEXT to Begin}
+			\item	{Importing: red.txt}
+			\item	{Successfully imported 162 records. (138 duplicates)}
+			\item	{Checking for infection data}
+			\item	{Checking for file: infected.csv}
+			\item	{infected.csv file exists. Delete file to update it}
+			\item	{Attempting to import infected.csv file}
+			\item	{Excluded 3330 for latitude issues (missing or misformatted)}
+			\item	{Excluded 3373 for longitude issues (missing or misformatted)}
+			\item	{Excluded 1212 for date issues (missing or misformatted)}
+			\item	{Imported 113264 infected records}
+			\item	{Generating contact report PDF file}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured after 24 hours. Risk: GREEN}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured within 3 hours. Risk: RED}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured within 3 hours. Risk: RED}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured within 3 hours. Risk: RED}
+			\item	{Found a point of risk: (51.454495,-2.588075)}
+			\item	{Exposure occured within 3 hours. Risk: RED}
+		\end{itemize}
+\end{itemize}
+
+\end{document}

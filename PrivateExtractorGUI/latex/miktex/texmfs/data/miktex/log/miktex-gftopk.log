@@ -1,0 +1,4 @@
+2020-03-28 23:55:34,408-0400 INFO  miktex-gftopk - starting with command line: miktex-gftopk.exe --miktex-disable-maintenance --miktex-disable-diagnose tcrm0900.600gf tcrm0900.pk
+2020-03-28 23:55:34,411-0400 INFO  miktex-gftopk - finishing with exit code 0
+2020-03-28 23:55:35,186-0400 INFO  miktex-gftopk - starting with command line: miktex-gftopk.exe --miktex-disable-maintenance --miktex-disable-diagnose tcrm1000.600gf tcrm1000.pk
+2020-03-28 23:55:35,188-0400 INFO  miktex-gftopk - finishing with exit code 0
